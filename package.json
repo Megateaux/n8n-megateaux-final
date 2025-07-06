@@ -1,0 +1,12 @@
+
+{
+  "name": "n8n-megateaux",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.44.0"
+  }
+}
